@@ -3,7 +3,7 @@ package com.practise;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class A2_Queue {
+public class A02_Queue {
 
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package com.practise;
 
 import java.util.LinkedList;
 
-public class A4_LinkedList {
+public class A04_LinkedList {
 
 	public static void main(String[] args) {
 		

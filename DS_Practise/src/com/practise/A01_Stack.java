@@ -2,7 +2,7 @@ package com.practise;
 
 import java.util.Stack;
 
-public class A1_Stack {
+public class A01_Stack {
 
 	public static void main(String[] args) {
 	//	STACk  = LIFO datastructure. Last In First Out

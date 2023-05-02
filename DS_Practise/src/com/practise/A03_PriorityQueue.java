@@ -3,7 +3,7 @@ package com.practise;
 import java.util.*;
 
 
-public class A3_PriorityQueue {
+public class A03_PriorityQueue {
 
 	public static void main(String[] args) {
 		
